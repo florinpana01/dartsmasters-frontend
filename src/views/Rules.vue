@@ -1,10 +1,12 @@
 <template>
-  <div>Home</div>
+<div>
+  <h1>The rules of Darts</h1>
+</div>
 </template>
 
 <script>
 export default {
-  name: "home"
+  name: "Rules"
 }
 </script>
 
